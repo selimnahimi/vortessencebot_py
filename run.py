@@ -11,7 +11,7 @@ def main():
 	markov.min_length = 5
 	markov.max_length = 20
 
-	fb     = Facebook ( "YOUR_TOKEN_HERE" )
+	fb     = Facebook ( "YOUR_TOKEN" )
 	fb.testing = False
 
 	try:
@@ -29,7 +29,7 @@ def main():
 		generation_time = time.time() - start_time
 
 		if getpyversion() == 2:
-			generated = unicode(generated)
+			generated = generated.encode('utf8')
 
 		log("GENERATED:")
 		log("---------------------------------")
