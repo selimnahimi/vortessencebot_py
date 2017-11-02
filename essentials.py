@@ -7,6 +7,9 @@ import random
 # Logging into file
 dolog = True
 def log(x):
+	if getpyversion() == 2:
+		x = x.encode('utf8')
+
 	x = "[" + str(datetime.now())[:-10] + "] " + str(x)
 	if dolog:
 		file = open('log.txt','a')
