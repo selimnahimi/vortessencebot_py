@@ -1,0 +1,581 @@
+Announcer: "Good morning, and welcome to the Black Mesa transit system. 
+This automated train is provided for the security and convenience of 
+the Black Mesa Research Facility personnel. The time is 8:47 A.M. 
+Current topside temperature is 93 degrees with an estimated high of 
+105. The Black Mesa compound is maintained at a pleasant 68 degrees at 
+all times. This train is inbound from level 3 dormitories to sector C 
+test labs and control facilities. If your intended destination is a 
+high security area beyond sector C, you will need to return to the 
+central transit hub in area 9 and board a high security train. If you 
+have not yet submitted your identity to the retinal clearance system, 
+you must report to Black Mesa personnel for processing before you will 
+be permitted into the high security branch of the transit system.
+
+"Due to the high toxicity of material routinely handled in the Black 
+Mesa compound, no smoking, eating, or drinking are permitted within the 
+Black Mesa transit system. Please keep your limbs inside the train at 
+all times. Do not attempt to open the doors until the train has come to 
+a complete halt at the station platform. In the event of an emergency, 
+passengers are to remain seated and await further instruction. If it is 
+necessary to exit the train, disabled personnel should be evacuated 
+first. Please, stay away from electrified rails and proceed to an 
+emergency station until assistance arrives. "
+
+Announcer: "A reminder: that the Black Mesa Hazard Course decathalon 
+will commence this evening at 1900 hours in the Level 3 facility. The 
+semi-finals for high security personnel will be announced in a separate 
+secure broadcast transmission. Remember: more lives than yours may 
+depend on your fitness.
+
+"Do you have a friend or relative who would make a valuable addition to 
+the Black Mesa Team? Immediate openings are available in the areas of: 
+materials handling, and low clearance security. Please contact Black 
+Mesa personnel for further information. If you have an associate with a 
+background in the areas of: theoretical physics, biotechnology, or 
+other high-tech disciplines, please contact our civilian recruiting 
+team. The Black Mesa Facility is an equal opportunity employer. 
+
+"A reminder to all Black Mesa personnel: regular radiation and 
+biohazard screenings are a requirement of continued employment in the 
+Black Mesa Research Facility. Missing a scheduled urinalysis or 
+radiation checkup is grounds for immediate termination. If you feel you 
+have been exposed to radioactive or other hazardous materials in the 
+course of your duties, contact your radiation safety officer 
+immediately. Work safe, work smart. Your future depends on it."
+
+The train stops at a long catwalk and a security officer walks toward 
+it. 
+
+Announcer: "Now arriving at sector C test labs and control facilities. 
+Please stand back from the automated door, and wait for the security 
+officer to verify your identity. Before exiting the train, be sure to 
+check your area for personal belongings. Thank you, and have a very 
+safe and productive day."
+
+Security Guard: "Mornin, Mr. Freeman. Looks like you're runnin late."
+
+Freeman steps into the airlock.
+
+Freeman walks up to the desk. There is a security guard and a 
+scientist.
+
+Security Guard: "Hey, Mr. Freeman. I had a bunch of messages for you, 
+but we had a system crash about 20 minutes ago, and I'm still tryin to 
+find my files. Just one of those days, I guess. They were havin some 
+problems down in the test chamber, too, but I think that's all 
+straightened out. They told me to make sure you headed down there as 
+soon as you got into your hazard suit."
+
+Freeman pushes a button, causing a computer terminal to pop up. 
+
+Scientist: "Get away from there, Freeman! I'm expecting an important 
+message!"
+
+Freeman pushes a button under the desk, setting off a security alarm. 
+
+Scientist: "My God! What are you doing?!"
+Guard: "Hey, stop that! Come on, Gordon, are you trying to get me into 
+trouble?"
+
+Freeman heads into the complex, overhearing some of the conversation 
+between the scientists. Heading toward the test chamber, Freeman is 
+stopped by the security guard.
+
+Guard: "Sorry, Mr. Freeman, I got explicit orders not to let you 
+through without your hazard suit on." 
+
+Freeman goes to the locker room and puts on his hazard suit.
+
+H.E.V.: "Welcome to the H.E.V. mark IV protective system for use in 
+hazardous environment conditions. High-impact reactive armor activated. 
+Atmospheric contaminant sensors activated. Automatic medical systems 
+engaged. Defensive weapon selection system activated. Munition level 
+monitoring activated. Communications interface online. Have a very safe 
+day." 
+
+The guard now allows Freeman through and uses the retinal scanner to 
+open the door to the test lab.
+
+Guard: "Go right on through sir. Looks like you're in the barrel 
+today."
+Gordon proceeds through the test lab and comes upon a group of three 
+scientists. 
+
+Scientist 1: "Ah, Gordon. Here you are. We just sent the sample down to 
+the test chamber. "
+Scientist 2: "We boosted the anti-mass spectrometer 105%. Bit of a 
+gamble, but we need the extra resolution."
+Scientist 3: "The administrator is very concerned that we get a 
+conclusive analysis of today's sample. I gather they went to some 
+length to get it."
+Scientist 1: "They're waiting for, Gordon, in the test chamber."
+
+The scientist unlocks the door for Gordon using the retinal scanner. He 
+proceeds down an elevator and toward the test chamber. On the way 
+there, a circuit board explodes near two scientists, who rush over to 
+check it out.
+
+Scientist 4: "It's about to go critical!"
+Scientist 5: "What the hell is going on with our equipment?"
+Scientist 4: "It wasn't meant to do this in the first place."
+
+Gordon reaches the entrance to the test chamber, where two scientists 
+are waiting for him. 
+
+Scientist 6: "I'm afraid we'll be deviating a bit from standard 
+analysis procedures today, Gordon."
+Scientist 7: "Yes, but with good reason. This is a rare opportunity for 
+us. This is the purest sample we've seen yet."
+Scientist 6: "And, potentially, the most unstable."
+Scientist 7: "Now, now, if you follow standard insertion procedure, 
+everything will be fine."
+Scientist 6: "I don't know how you can say that. Although I will admit 
+that the possibility of a resonance cascade scenario is extremely 
+unlikely."
+Scientist 7: "Gordon doesn't need to hear all this, he's a highly 
+trained professional. We've assured the administrator that nothing will 
+go wrong."
+Scientist 6: "Ah...yes, you're right. Gordon, we have complete 
+confidence in you."
+Scientist 7: "Well, go ahead. Let's let him in now."
+
+The two scientists use retinal scanners to unlock the door, and Gordon 
+enters the test chamber. Inside, the scientists communicate with Gordon 
+over the intercom. 
+
+Intercom 1: (feedback)"Testing, testing. (coughs) Everything seems to 
+be in order."
+Intercom 2: "All right, Gordon. your suit should keep you comfortable 
+through all this. The specimen will be delivered to you in a few 
+moments. If you would be so good as to climb up and start the rotors, 
+we can bring the anti-mass spectrometer to 80 percent and hold it there 
+until the carrier arrives.
+Intercom 2: "Gordon, are you not hearing me? Climb up and start the 
+rotors, please.
+Intercom 2: "Very good. We'll take it from here."
+Intercom 1: "Power to stage 1 emitters in 3,2,1. I'm seeing predictable 
+phase arrays."
+Intercom 1: "Stage 2 emitters activating...now."
+Intercom 2: "Gordon, we cannot predict how long the system can operate 
+at this level, nor how long the readings will take. Please, work as 
+quickly as you can."
+Intercom 1: "Overhead capacitors to one oh five percent. Uh, it's 
+probably not a problem, probably, but I'm showing a small discrepancy 
+in... well, no, it's well within acceptable bounds again. Sustaining 
+sequence."
+Intercom 2: "I've just been informed that the sample is ready, Gordon. 
+It should be coming up to you any moment now. Look to the delivery 
+system for your specimen."
+
+Gordon pushes the cart into the machine. Electricity begins arcing out 
+of control all around the machine. 
+
+Intercom 1: "Oh dear!"
+Intercom 2: "Gordon, get away from the-"
+Intercom 1: "Shutting down-no, attempted shutdown. It's not-it's not, 
+it's not shutting down!"
+
+A huge explosion rocks the spectrometer, and the intercom cuts off in a 
+scream. Gordon sees several flashes of an alien landscape, then comes 
+to in the wreckage of the machine.
+
+Scientist 1: "Why didn't they listen? We tried to warn them."
+Scientist 2: "I never thought I'd see a resonance cascade, let alone 
+create one."
+Scientist 1: "Gordon, you're alive! Thank God for that hazard suit. I'm 
+afraid to move him and all our phones are out. Please get to the 
+surface as soon as you can and let someone know we're stranded down 
+here. You'll need me to access the retinal scanners. I'm sure the rest 
+of the science team will gladly help you."
+
+Guard: "Gordon! Man, am I glad to see you! What the hell are these 
+things? And why are they wearin science team uniforms?"
+
+Announcement system:
+"Warning, high energy detonation detected in materials laboratory."
+"Warning, unauthorized biological force detected in maintenance area."
+"Warning, flooding detected on sublevel B."
+"Damage control team to Sector C immediately."
+"Biohazard warning in Sector B and C."
+"Attention: Sector C science personnel, please report status 
+immediately."
+"Warning, Sector C elevator failure, do not use."
+
+Gordon finds an elevator that brings him up out of the test lab and 
+into the:
+
+Scientist 1: "Ah, Gordon. If I'd known it was you, I'd have let you in. 
+Everyone's heading for the surface, but I think they're crazy. If we 
+stay put, someone is bound to come rescue us."
+
+Scientist 2: "I'm not so sure I want to go to the surface. What if the 
+world finds out what we were doing down here?"
+
+Scientist 3: "I just overheard a secure access transmission. Soldiers 
+have arrived, and they're coming to rescue us. 'Course, I have my 
+doubts that we'll live long enough to greet them."
+
+Guard 1: "Hey, what the hell are you doin down here? Get topside! I 
+hear troops are coming in to save us."
+
+Guard 2: "Don't count on the cavalry finding us down here. Head for the 
+surface. Elevators are out of order, but we can still climb."
+
+Scientist 4: (hanging from ladder) "I-I can't hold on much...longer. 
+(falls) Yaaaaaah!"
+
+Announcement system: "Attention: Black Mesa announcement system now 
+under military command."
+
+A security guard heads to the console to open the door, but is ambushed 
+by an alien. With the door locked and the glass unbreakable, Gordon can 
+only watch. 
+Scientist 1: "For God's sake, open the silo doors! They're coming for 
+us, it's our only way out! Oh my God, we're doomed!"
+
+Scientist 2: (running toward a Marine)"Rescued at last! Thank God 
+you're here!" (The Marine then shoots the scientist.)
+
+Marine: "I killed twelve dumb ass scientists and not one of 'em fought 
+back. This sucks."
+
+Scientist 3: "Well, so much for the government. Their idea of 
+containment is to kill every one associated with the project. Judging 
+by your hazard suit, I'd say you were part of what went wrong. Isn't 
+that right? Now look, if anyone can end this catastrophe, it's the 
+science team in the Lamba Complex at the opposite end of the base. With 
+the transit system out, I couldn't tell you how to get there, but 
+there's an old decommissioned rail system somewhere through here beyond 
+the silo complex. If you can make it through the rocket test labs, you 
+might be able to worm your way through the old tunnels to track down 
+whatever's left of the Lambda team. You can trust them. You can trust 
+all of us."
+
+Loud banging noises are heard on the walls. Gordon comes across a 
+scientist bleeding to death against the wall. 
+Dying Scientist: "Fire the... rocket engine. Destroy the damn thing 
+before it grows any larger!"
+
+Entering the rocket engine control room, Gordon sees a gigantic 
+serpent-like alien break through the glass and grab a scientist in its 
+jaws.
+Scientist (being eaten): "No! No, no! Get it off me! Get it off, get it 
+off! Aaaaaah!"
+
+Guard 1: "Be quiet. This thing hears us."
+
+Guard 2: "Hey, hey! Over here! Eat lead, you outer space octopus!"
+The guard fires at the three-headed alien but is quickly killed by it.
+
+Gordon sneaks by the alien, activates the fan and the oxygen and fuel 
+pumps on the second level, then heads down to activate the power 
+generator. 
+Scientist: "I hope no one expects me to go start up the generator. 
+Smithers went down there and never came back."
+
+Gordon climbs up to the top of the generator where he finds a 
+scientist.
+Smithers: "This is my hiding spot, and I'm not moving until the 
+situation is drastically improved. Now go away, and don't tell anyone 
+I'm here!"
+Gordon activates the generator, causing electricity to spark all over 
+the room. 
+Smithers: "Ah! Oh dear!"
+
+Scientist: "Excellent! Someone has restored all power. We'll have the 
+engine up again in no time."
+Gordon fires the rocket engine, destroying the alien beneath it. 
+Underneath the alien is an access shaft that eventually leads to the 
+old rail system.
+
+Several marines are firing at a giant hulking alien to no avail. 
+Freeman moves past it and makes it up to the track control room. Inside 
+is a wounded guard. 
+Guard: "Mister, you can get the power on, that train'll take us 
+straight to the surface. I would try it myself, but it's a long way 
+down to the generator room, and there are... things in the way."
+Gordon goes down to the generator room, taking out a good number of 
+Marines along the way. After activating the power, he heads back to the 
+control room. 
+Guard: "I'm never gonna make it. You better go on without me."
+To take care of the giant alien, Gordon lures it between two large 
+conducting towers. Activating the power, the alien is electrified and 
+explodes. Gordon then gets on the train to take him toward the Lambda 
+complex.
+
+Guard: "Freeman, I've been waiting for you. One of your scientist pals 
+said to give you a message. You're supposed to take this old rail 
+system up to some kind of satelite delivery rocket. I don't know where 
+it is exactly, and the old guy was so worried about gettin outta here 
+alive he didn't tell me. Main thing is, the military aborted the 
+launch. So, when you do find the rocket, you'll have to get up to the 
+control and launch it yourself. He said somethin about a Lambda team 
+needing the satelite in orbit if they were ever gonna clean up this 
+mess."
+
+Freeman makes his way through the rail system, fighting both aliens and 
+Marines. 
+Beside one of the bunkers is a message written on the wall: SURRENDER 
+FREEMEN
+He makes it to the rocket launch area and overhears a conversation 
+between two Marines.
+
+Marine 1: "So, who is this guy, Freeman?"
+Marine 2: "They say he was at ground zero."
+Marine 1: "Science team... You think he was responsible? Sabotage, 
+maybe?"
+Marine 2: "Yeah, maybe. All I know for sure is he's been killing my 
+buddies."
+Marine 1: "Oh yeah, he'll pay. He will definitely pay."
+
+Inside the launch control room, Freeman overhears a conscientious 
+Marine complaining.
+Marine 3: "I didn't sign on for this shit. Monsters, sure, but 
+civilians? Who ordered this operation anyway?"
+
+Gordon dispatches the Marines, and launches the rocket to deliver the 
+satelite.
+
+Scientist 1: "Did you see it? They said it was hauled from the 
+Challenger deep, but I'm positive that beast never swam in terrestrial 
+waters until a week ago. There's a tranquilizer gun in the shark cage, 
+but I'm not sure it would work on this species. You're welcome to try."
+
+Scientist 2: "Gordon Freeman, it is you, isn't it? The science team has 
+been tracking your progress with the Black Mesa security system. 
+Unfortunately, so is the military. That suit of yours is full of 
+tracking devices. Still, it's better than going naked in this place. 
+It's cold in there. You'll have to hurry. It could sap your suit power 
+in a matter of moments. If you're bent on reaching the Lambda complex, 
+then you'll want to keep to the older industrial areas where the 
+security system is full of holes. It's worked for me, so far."
+
+Guard: "Freeman, right? I've got a message for you. Make sure you 
+don't--augh!"
+
+Freeman opens the surface access door, and heads out. Suddenly, the 
+screen goes dark and sounds of a struggle are heard for a few seconds. 
+
+Marine 1: "Get him!"
+Marine 1: "Hahaha... nice hit. Uh, all right, we got 'im."
+
+Marine 2: "Where are we takin this Freeman guy?"
+Marine 1: "Topside for questioning."
+Marine 2: "What the hell for? We got 'im. Let's kill him now."
+Marine 1: "Uh... and if they find the body?"
+Marine 2: "Body? What body?"
+
+Both laugh. Gordon wakes up in a trash compactor. 
+
+Gordon makes his way through heavy industrial equipment. No dialogue in 
+this section.
+
+Guard 1: "Hey, it's no good up there, it's all sealed off. The only way 
+out, would be to find someone with scanner access who can open the 
+front door. I'm pretty sure there's a few scientists hidin somewhere in 
+the labs. Maybe with both of lookin, we can track them down, and get 
+'em to let us out. 
+
+Guard 2: "What is this thing? Is it some kinda weapon?"
+Scientist 1: "Put that down, it's a prototype..."
+Guard 2: "Man, why aren't we usin it?"
+Scientist 1: "It's much too unpredictable. Don't let it overcharge!"
+Guard 2: "W-what do you mean overchar-" KABOOM
+
+Scientist 2: "A scientist! Thank God! Get us out of here before those 
+military drones figure out where we're hiding."
+Scientist 3: "We all have retinal scanner access. Escort us to the 
+lobby, and we can get out of the lab." 
+Scientist 4: "You'll have to shut down the surgical unit first. Peters 
+switched it on but I'm afraid he never made it back." 
+
+Scientist: "Well, I'll let you out, but I'm warning you, it's hell out 
+there. It's completely under military control. You'll have to sneak and 
+fight your way from one end to the other. I don't expect you'll meet 
+many of our peers along the way. But, if you do survive and somehow 
+make it across the base, you'll end up at the Lambda complex, where the 
+rest of the science team has taken shelter. I wouldn't venture there 
+myself, but I will let them know that you are coming."
+
+Dying Guard: "Help me. Help me. Somebody please help me, I'm dyin out 
+here. Please... help... me."
+
+Scientist: "You're heading for the Lambda complex, aren't you? I was 
+heading there myself until I wound up here, and, well, simply lost my 
+nerve. Take one look through that door and you'll see what I mean. I'm 
+going to wait out the catastrophe in here. If you intend to go on, then 
+I beg of you: proceed with extreme caution."
+
+Radio: "Come in! Cooper, do you copy? Forget about Freeman. We're 
+abandoning the base. If you have any last bomb targets, mark them on 
+the technical map. Otherwise, get the hell out of there. Repeat: we are 
+pulling out and commencing airstrikes. Give us targets or get below."
+
+Radio: "Forget about Freeman! We are cutting our losses and pulling 
+out! Anyone left down there now is on his own! Repeat: if you are not 
+already, you are-"
+
+Scientist: "I apologize, Mr Freeman, but I couldn't risk opening that 
+door until I was sure you'd scoured the area. This is the last entrance 
+to the Lambda complex. Every other has been sealed off to contain the 
+invasion. When we realized that you might actually make it here, we 
+drew straws to see who should stay behind to let you through. 
+Obviously, I drew the short one. My colleagues are waiting at the tip 
+of the Lambda reactor. Waiting for you, I mean. The reactor is shut 
+down right now, but you can activate it on your way up. You'll have to 
+flood the core anyway to get into the teleportation labs. You're not 
+authorized to know about those, but I can see you already know a great 
+deal more than any one man is supposed to."
+
+Scientist 2: "Were you in weapons research too? I built the gluon gun, 
+but I just can't bring myself to use it on another living creature. You 
+don't look as if you have any trouble killing things."
+
+Scientist 3: "Freeman, isn't it? You'll need to activate both pumps to 
+flood the reactor, and then that access pipe down there will take you 
+on to the core. Time is short."
+Scientist 3: "Don't linger, Mr. Freeman. You've turned on the pumps. 
+Take the access pipe, flood the core and get on up to the labs without 
+delay."
+
+Scientist 4: "Gordon Freeman, you've finally found us."
+Guard: "So this is the guy. We thought you'd never make it."
+Scientist 4: "This is the supply depot for our first survey team. Quite 
+a few handsome specimens were collected from the borderworld and 
+brought back this way. Uh... before the survey members started being 
+collected themselves, that is. We suspect there is an immense portal 
+over there, created by the intense concentration of a single powerful 
+being. You will know it when you see it. I hate to say this Gordon, but 
+you must kill it."
+Guard: "Yeah, you'd better kill it."
+Scientist 4: "Of course, you owe us nothing, Mr. Freeman. But you've 
+come this far. You know as much about these creatures as anyone."
+Guard: "Enough to know that if you don't wipe it out, there won't be 
+much for you to come home to."
+Scientist 4: "Yes, so if you're willing, my colleague is waiting for 
+you at the main portal controls. He will open the gates for you, Mr. 
+Freeman. Do hurry."
+Guard: "Don't forget to gear up, and I'll cover you while you're 
+waiting for that portal to warm up." 
+Scientist 4: "This, Mr. Freeman, is a long jump module, created 
+expressly for navigation in the world beyond. I certainly hope you 
+received long jump training because once you're in Xen, you will need 
+it. I would advise you to practice before crossing over."
+HEV: "Power assist movement activated."
+
+Scientist 5: "Hello, Freeman. I'm up here. Practice your long jump if 
+you must, but hurry up."
+Scientist 5: "All right, I can open the portal now. The process is 
+complicated, and once it is begun I must not be interrupted or I'll 
+have to start all over again. Don't enter the beam until I give the OK. 
+Understood? I will begin."
+Scientist 5: "Almost there, Freeman. Get yourself in position."
+Scientist 5: "Not yet, Freeman."
+Scientist 5: "It's ready! You must go, now!"
+
+Freeman jumps into the beam.
+
+XEN 
+Freeman finds himself floating on one of several platforms. He uses the 
+long jump module to enter the middle of the largest floating platform. 
+He also spies a corpse wearing an HEV suit. In the middle of the 
+platform, he activates a portal. 
+No dialogue.
+
+GONARCH'S LAIR
+Gordon finds himself face to face with a gigantic spider type alien. He 
+eventually manages to defeat it and find another portal. 
+No dialogue.
+
+INTERLOPER
+Freeman moves through what appears to be an industrial complex 
+populated with aliens. At the very top of the complex is another 
+portal. Jumping in, he finds himself on top of more floating rocks with 
+a bright red portal ahead of him.
+No dialogue.
+
+NIHILANTH
+Nihilanth: Frrrreeeeemmmmaaaaannnnn........
+A huge freakish humanoid creature floats over Freeman. Using the 
+various weapons at his disposal, Freeman takes out the crystals above 
+the creature, shoots its head open, and destroys its brain. Everything 
+goes dark for a moment, then Gordon wakes up face to face with a man in 
+a suit and tie carrying a briefcase. All his weapons are gone.
+
+G-man: "Gordon Freeman, in the flesh. Or rather, in the hazard suit. I 
+took the liberty of relieving you of your weapons. Most of them were 
+government property. As for the suit, I think you've earned it. The 
+borderworld, Xen, is in our control, for the time being, thanks to you. 
+Quite a nasty piece of work you managed over there. I am impressed. 
+
+"That's why I'm here, Mr. Freeman. I have recommended your services to 
+my eh-eh-eh-eh-employers and they have authorized me to offer you a 
+job. They agree with me that you have limitlesssss potential.
+
+The scene shifts to a train very similar to the Black Mesa train that 
+Gordon came to work in.
+"You've proved yourself a decisive man, so I don't expect you'll have 
+any trouble deciding what to do. If you're interested, just step into 
+the portal and I will take that as a yes. Otherwise, hm, well, I can 
+offer you a battle you have no chance of winning. Rather an anticlimax 
+after what you've just survived. Time to choose."
+
+At this point, Gordon can either step through the door or not, 
+resulting in two different endings. 
+
+G-man: "Well, it looks like we won't be working together. No regrets, 
+Mr. Freeman."
+
+Ending 2, or "Do I get Dental?"
+
+G-man: "Wisely done, Mr. Freeman. I will see you up ahead."
+
+If you stick around the scientists long enough in the beginning of the 
+game, they will begin conversing among themselves. This usually 
+consists of a random question or statement coupled with a random 
+response. If you listen long enough, you'll see that the accident 
+shouldn't have been quite so unexpected. They've got missing tests, 
+uncleaned equipment, and someone's eaten all the donuts!
+
+Wouldn't it be fantastic to get some pure readings for a change?
+Is anyone else getting hungry?
+I hope those continued parameters are still nominal.
+Don't you think we should calculate those resonance dampening factors 
+again?
+I am rather looking forward to this analysis, aren't you?
+You have no idea what is going on, do you?
+Have you seen my coffee cup?
+Are you thinking what I'm thinking?
+Yes, this all looks nominal.
+Aren't you a bit worried about that exponential cascade scenario we 
+talked about?
+Have you been able to get the beverage machine to work yet?
+Do you know who ate all the donuts?
+You aren't going soft on that ethics issue again, are you?
+Someone's hidden my glasses again. 
+I must remember to report that fluctuation. 
+That's odd.
+Why do we all have to wear these ridiculous ties?
+This is all within theoretical limits.
+Are you running those tunneling rattis (not sure on that one) 
+calculations again?
+All displacement modulators were tuned today, weren't they?
+
+You know, you repeat yourself sometimes.
+I'm not at all sure.
+Shut up.
+Don't be ridiculous. 
+Nnnnooooo.
+Yeeeesssss.
+It's inconclusive.
+I really don't know.
+Positively.
+I'm sure of it.
+I don't think so.
+Stop asking that question.
+Theoretically.
+You are completely wrong.
+Didn't you just ask me that?
+Who can say?
+Right.
+Kindly lower your voice.
