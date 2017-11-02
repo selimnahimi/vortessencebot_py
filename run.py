@@ -69,7 +69,7 @@ def main():
 	except Exception as e:
 		log("Failed to generate sentence. Posting a random image instead.")
 		log(traceback.format_exc(e))
-		message = "Failed to generate sentence. Posting a random image instead:"
+		message = "Failed to generate sent(i)ence. Posting a random image instead:"
 
 		image = randomimg("./images")
 		log("Chosen image: " + str(image))
