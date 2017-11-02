@@ -3,12 +3,13 @@ import sys
 import ntpath
 import os
 import random
+import re
 
 # Logging into file
 dolog = True
 def log(x):
 	if getpyversion() == 2:
-		x = x.encode('utf8')
+		x = str(x).encode('utf8')
 
 	x = "[" + str(datetime.now())[:-10] + "] " + str(x)
 	if dolog:
