@@ -27,10 +27,9 @@ class Facebook:
 				files = {'file': open(image ,'rb')}
 				return requests.post(str(self.url) + "me/photos", data=dict(access_token=self.token, message=message), files=files).json()
 			except Exception as e:
-				log("Failed to load the following image: " + str(image) + ", posting text only instead")
-				log(traceback.format_exc(e))
+				log("Failed to load the following image: " + str(image) + ", posting text only instead\n" + str(e))
 
-				return self.publish_text(text)
+				return self.publish_text(message)
 
 	def publish_comment(self, id, message):
 		if self.testing:
